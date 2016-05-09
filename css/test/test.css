@@ -1,0 +1,14 @@
+p{color:blue;}
+
+/**{color:red;}
+*/
+h1{color:red;}
+h2{color:green;}
+h3{color:blue;}
+h4{color:orange;}
+/*#first{color:blue;}*/
+/*.points{color:orange;}
+*/
+
+/*h1, p{color:green;}  /*h1p両方色が変わる*/*/
+div span{color:red;} /*divの下のspanの色が変わる*/
